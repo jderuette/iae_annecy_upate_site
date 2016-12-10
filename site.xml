@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Update site pour éléves de l&apos;IAE d&apos;Annecy">
+      Contient les plugin eclipse utiles pour les cours STI premère anneé
+   </description>
+   <feature url="features/net.sourceforge.pmd.eclipse_4.0.10.v20160626-1043.jar" id="net.sourceforge.pmd.eclipse" version="4.0.10.v20160626-1043"/>
+</site>
