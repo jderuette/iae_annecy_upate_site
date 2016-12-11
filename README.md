@@ -2,8 +2,8 @@
 Contient les plugin eclipse utiles pour les cours STI premère anneé
 
 # Installation
-Le dossier target contient un zip pret à être utiliser, le télécharger.
-Dans eclipse help->install new software : ajouter un nouveau site en choisissant "archive", puis sélectionnant le zip créer.
+CLonner le projet git.
+Dans eclipse help->install new software : ajouter un nouveau site en choisissant "local", puis sélectionnant le projet git récupéré.
 
 
 # Pour construire l'update site
